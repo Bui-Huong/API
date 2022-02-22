@@ -1,0 +1,40 @@
+E:\rookies\API1 EX\obj\Debug\netcoreapp3.1\API1 EX.csprojAssemblyReference.cache
+E:\rookies\API1 EX\obj\Debug\netcoreapp3.1\API1 EX.AssemblyInfoInputs.cache
+E:\rookies\API1 EX\obj\Debug\netcoreapp3.1\API1 EX.AssemblyInfo.cs
+E:\rookies\API1 EX\obj\Debug\netcoreapp3.1\API1 EX.csproj.CoreCompileInputs.cache
+E:\rookies\API1 EX\obj\Debug\netcoreapp3.1\API1 EX.MvcApplicationPartsAssemblyInfo.cs
+E:\rookies\API1 EX\obj\Debug\netcoreapp3.1\API1 EX.MvcApplicationPartsAssemblyInfo.cache
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\appsettings.json
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\API1 EX.exe
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\API1 EX.deps.json
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\API1 EX.runtimeconfig.json
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\API1 EX.runtimeconfig.dev.json
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\API1 EX.dll
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\API1 EX.pdb
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\rookies\API1 EX\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\rookies\API1 EX\obj\Debug\netcoreapp3.1\API1 EX.RazorTargetAssemblyInfo.cache
+E:\rookies\API1 EX\obj\Debug\netcoreapp3.1\API1 EX.csproj.CopyComplete
+E:\rookies\API1 EX\obj\Debug\netcoreapp3.1\staticwebassets\API1 EX.StaticWebAssets.Manifest.cache
+E:\rookies\API1 EX\obj\Debug\netcoreapp3.1\staticwebassets\API1 EX.StaticWebAssets.xml
+E:\rookies\API1 EX\obj\Debug\netcoreapp3.1\API1 EX.dll
+E:\rookies\API1 EX\obj\Debug\netcoreapp3.1\API1 EX.pdb
+E:\rookies\API1 EX\obj\Debug\netcoreapp3.1\API1 EX.genruntimeconfig.cache
